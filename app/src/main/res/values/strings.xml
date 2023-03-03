@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Laboratorio No.2</string>
+    <string name="bmw">BMW</string>
+    <string name="informacionBmw">"<b>BMW pronunciación alemana:[be-em-ve]</b> es un fabricante alemán de automóviles y motocicletas de alta gama y lujo, cuya sede se encuentra en Múnich. Sus subsidiarias son Mini, Rolls-Royce, BMW i y BMW Bank.
+            \n\nEl predecesor de BMW fue la empresa Rapp Motorenwerke GmbH, fundada en 1913 por Karl Rapp. Cambiaron el nombre en abril de 1917, en primer lugar a BMW GmbH (sociedad limitada) para terminar en BMW AG, un año más tarde tras su conversión en sociedad anónima.
+            \n\nEl conocido logotipo blanco y azul de BMW se creó en 1917, cuando la empresa aún se dedicaba a la fabricación de motores de avión y simboliza la bandera del Estado Libre de Baviera (no simbolizaba una hélice en movimiento sobre un cielo azul).
+            \n\nEn un anuncio de BMW de 1929 se muestra el emblema con los cuartos de color sobreimpreso encima de una hélice en movimiento. De ahí nació la interpretación de que el logo de BMW representa una hélice."
+    </string>
+    <string name="nissan">Nissan</string>
+    <string name="informacionNissan">"Nissan Motor Co., Ltd. es un fabricante japonés de automóviles, con base en Nishi-ku. <b>Su nombre común, Nissan, es un acrónimo de "Nippon Sangyo".</b> Está entre las principales compañías automotrices en términos de producción anual de vehículos.
+        \n\nEn 2018, Nissan se convirtió en el mayor fabricante de vehículos eléctricos a nivel mundial, habiendo vendido más de 320 000 unidades.
+        \n\nNissan se remonta a Kawaishinsha Co., una fábrica de automóviles fundada por Masujiro Hashimoto en el distrito de Azabu-Hiroo, Tokio en 1911. Hashimoto era un pionero en la industria del automóvil de Japón desde sus comienzos. En 1914, un pequeño coche de pasajeros fue desarrollado basándose en su propio diseño, y en el año siguiente el coche hizo su debut en el mercado bajo el nombre de Dat, que representa las primeras letras de los apellidos de los tres soportes principales de Hashimoto: Kenjiro Den, Rokuro Aoyama y Meitaro Takeuchi.
+        \n\nJitsuyo Jidosha Co., Ltd., otro precursor de Nissan, fue establecida en Osaka en 1919 para fabricar los vehículos Gorham de tres ruedas, diseñados por el ingeniero americano William R. Gorham. Las herramientas, los componentes y los materiales fueron importados por la compañía de los Estados Unidos, convirtiéndola en una de las más modernas de aquellos tiempos."
+    </string>
+    <string name="informacionBm"><b>BMW pronunciación alemana:[be-em-ve]</b> es un fabricante alemán de automóviles y motocicletas de alta gama y lujo, cuya sede se encuentra en Múnich. Sus subsidiarias son Mini, Rolls-Royce, BMW i y BMW Bank.
+        \n\nEl predecesor de BMW fue la empresa Rapp Motorenwerke GmbH, fundada en 1913 por Karl Rapp. Cambiaron el nombre en abril de 1917, en primer lugar a BMW GmbH (sociedad limitada) para terminar en BMW AG, un año más tarde tras su conversión en sociedad anónima.
+        \n\nEl conocido logotipo blanco y azul de BMW se creó en 1917, cuando la empresa aún se dedicaba a la fabricación de motores de avión y simboliza la bandera del Estado Libre de Baviera (no simbolizaba una hélice en movimiento sobre un cielo azul).
+        \n\nEn un anuncio de BMW de 1929 se muestra el emblema con los cuartos de color sobreimpreso encima de una hélice en movimiento. De ahí nació la interpretación de que el logo de BMW representa una hélice.</string>
+
+</resources>
